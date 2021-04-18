@@ -1,0 +1,42 @@
+h1 {
+    color: brown;
+}
+
+/* {
+    border: solid;
+}*/
+
+.games{
+    
+    display: flex;
+    flex-direction: row;
+    flex-wrap:wrap;
+    justify-content: space-between;
+    
+    
+}
+
+.footer{
+
+    display: flex;
+    justify-content: flex-end;
+    
+}
+
+.header{
+
+    background-color: aqua;
+    display: flex;
+    flex-direction: column;
+    
+    
+
+}
+
+.desc{
+
+display:flex;
+flex-direction: column;
+
+
+}
